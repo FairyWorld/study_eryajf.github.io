@@ -32,13 +32,13 @@ jobs:
           folder: docs/.vuepress/dist
           branch: gh-pages # 部署到的分支
 
-  test_website:
-    needs: deploy
-    runs-on: ubuntu-20.04
-    steps:
-      - name: Test Connect
-        run: |
-          curl https://wiki.eryajf.net/ --connect-timeout 5
+  # test_website:
+  #   needs: deploy
+  #   runs-on: ubuntu-20.04
+  #   steps:
+  #     - name: Test Connect
+  #       run: |
+  #         curl https://wiki.eryajf.net/ --connect-timeout 5
 
   # scrape-docs:
   #   needs: test_website
