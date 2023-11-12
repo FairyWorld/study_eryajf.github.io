@@ -10,7 +10,7 @@ cp utils/BingSiteAuth.xml docs/.vuepress/dist
 cp utils/436d5778d83e4fdb99facd48b571b90d.txt docs/.vuepress/dist
 
 # 同步
-rsync -az -e 'ssh -p 2023' --delete-excluded 'learning-weekly.xml' --delete docs/.vuepress/dist/  \
+rsync -az -e 'ssh -p 2023' --exclude='learning-weekly.xml' --delete docs/.vuepress/dist/  \
     root@8.136.215.57:/data/www/eryajf.github.io/
 
 sleep 5
