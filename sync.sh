@@ -21,3 +21,6 @@ doge flush path -p "https://comment.eryajf.net/"
 
 # 更新检索的索引数据
 ssh -p 2023 root@8.136.215.57 'bash /data/docker/meilisearch/scraper/do.sh'
+
+# 生成周刊的 rss
+ssh -p 2023 root@8.136.215.57 'bash /data/scripts/genreate-rss.sh'
