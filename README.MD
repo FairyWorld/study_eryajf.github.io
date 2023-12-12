@@ -18,6 +18,7 @@
 **学习周刊：** [https://wiki.eryajf.net/learning-weekly/](https://wiki.eryajf.net/learning-weekly/)
 
 > 可通过此地址进行 rss 订阅：[rss](https://wiki.eryajf.net/rss.xml)
+> 也可通过此地址单独订阅博客的学习周刊：[rss](https://wiki.eryajf.net/learning-weekly.xml)
 
 ---
 

@@ -2,42 +2,34 @@
 module.exports = {
   homeSidebarB:
     `<div style="padding: 0.95rem">
-      <p style="
-        color: var(--textColor);
-        opacity: 0.9;
-        font-size: 20px;
-        font-weight: bold;
-        margin: 0 0 8px 0;
-      ">公众号</p>
-      <img src="http://t.eryajf.net/imgs/2023/02/712e2287455b9a0c.png"  style="width:100%;" />
-      <p>
-      运维艺术，扫码或者搜索关注
-      </p>
-      </div>`,
+    <p style="
+      color: var(--textColor);
+      opacity: 0.9;
+      font-size: 20px;
+      font-weight: bold;
+      margin: 0 0 8px 0;
+    ">衷心推荐</p>
+    <a href="https://www.zentao.net/redirect-index-23518.html" target="_blank">
+      <img src="https://t.eryajf.net/imgs/2023/12/1702383393691.jpg"  style="width:100%;" />
+    </a>
+    </div>`,
 
-      // <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="100%"  height="3">
-      // <a href="https://item.m.jd.com/product/13996910.html?utm_user=plusmember&gx=RnAohDtYYTzfw5kc49UzFw&gxd=RnAoxzRebWDYyphH-dEkWp8WgYz4W6E&ad_od=share&utm_source=androidapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=Wxfriends" target="_blank">
-      //     <img src="https://pic6.58cdn.com.cn/nowater/webim/big/n_v20068e773520d46d99902ee12ec1c42d3.png" alt="宣传图" height="320" width="100%">
-      //   </a>
-      // <p>
-      // 欢迎关注购买我们的新书。
-      // </p>
-    // `<div style="padding: 0.95rem">
-    // <p style="
-    //   color: var(--textColor);
-    //   opacity: 0.9;
-    //   font-size: 20px;
-    //   font-weight: bold;
-    //   margin: 0 0 8px 0;
-    // ">本站工具</p>
-    // <p>
-    //   <a href="https://eryajf.github.io/Learning-Weekly/" arget="_blank" > 学习周刊 <span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a>
-    //   </br><a href="http://nav.eryajf.net" arget="_blank" > 我的导航 <span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a>
-    //   </br><a href="http://ip.eryajf.net" arget="_blank" > 出口IP查询 <span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a>
-    //   </br><a href="http://m.eryajf.net" arget="_blank" > 开源软件国内镜像 <span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a>
-    //   </br><a href="http://ob-plugin.eryajf.net" arget="_blank" > Ob插件周刊 <span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a>
-    // </p>
-    // </div>`,
+  // `<div style="padding: 0.95rem">
+  // <p style="
+  //   color: var(--textColor);
+  //   opacity: 0.9;
+  //   font-size: 20px;
+  //   font-weight: bold;
+  //   margin: 0 0 8px 0;
+  // ">本站工具</p>
+  // <p>
+  //   <a href="https://eryajf.github.io/Learning-Weekly/" arget="_blank" > 学习周刊 <span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a>
+  //   </br><a href="http://nav.eryajf.net" arget="_blank" > 我的导航 <span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a>
+  //   </br><a href="http://ip.eryajf.net" arget="_blank" > 出口IP查询 <span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a>
+  //   </br><a href="http://m.eryajf.net" arget="_blank" > 开源软件国内镜像 <span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a>
+  //   </br><a href="http://ob-plugin.eryajf.net" arget="_blank" > Ob插件周刊 <span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a>
+  // </p>
+  // </div>`,
   // 利用广告模块儿,添加访问地球🌎
   // homeSidebarB: `<div style="width:100%;height:122px;color:#fff;background: #eee;"><a href="https://www.revolvermaps.com/livestats/5srkcv15atq/"><img src="//rf.revolvermaps.com/h/m/a/0/ff0000/128/10/5srkcv15atq.png" width="256" height="128" alt="Map" style="border:0;"></a></div>`,
   pageT: `<div style="
