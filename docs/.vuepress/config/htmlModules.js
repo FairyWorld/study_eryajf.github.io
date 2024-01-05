@@ -9,8 +9,8 @@ module.exports = {
       font-weight: bold;
       margin: 0 0 8px 0;
     ">衷心推荐</p>
-    <a href="https://www.zentao.net/redirect-index-23518.html" target="_blank">
-      <img src="https://t.eryajf.net/imgs/2023/12/1702383393691.jpg"  style="width:100%;" />
+    <a href="https://www.zentao.net/redirect-index-23602.html" target="_blank">
+      <img src="https://t.eryajf.net/imgs/2024/01/1704418036028.jpg"  style="width:100%;" />
     </a>
     </div>`,
 
