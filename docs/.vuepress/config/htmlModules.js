@@ -2,16 +2,15 @@
 module.exports = {
   homeSidebarB:
     `<div style="padding: 0.95rem">
-    <p style="
-      color: var(--textColor);
-      opacity: 0.9;
-      font-size: 20px;
-      font-weight: bold;
-      margin: 0 0 8px 0;
-    ">衷心推荐</p>
-    <a href="https://www.zentao.net/redirect-index-23602.html" target="_blank">
-      <img src="https://t.eryajf.net/imgs/2024/01/1704418036028.jpg"  style="width:100%;" />
-    </a>
+      <p style="
+        color: var(--textColor);
+        opacity: 0.9;
+        font-size: 20px;
+        font-weight: bold;
+        margin: 0 0 8px 0;">衷心推荐</p>
+      <a href="https://www.zentao.net/redirect-index-23602.html" target="_blank">
+        <img src="https://t.eryajf.net/imgs/2024/01/1704418036028.jpg"  style="width:100%;" />
+      </a>
     </div>`,
 
   // `<div style="padding: 0.95rem">
