@@ -24,3 +24,5 @@ ssh -p 2023 root@8.136.215.57 'bash /data/docker/meilisearch/scraper/do.sh'
 
 # 生成周刊的 rss
 ssh -p 2023 root@8.136.215.57 'bash /data/scripts/genreate-rss.sh'
+
+echo 'success'
